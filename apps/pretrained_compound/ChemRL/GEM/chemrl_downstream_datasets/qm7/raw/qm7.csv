@@ -1,0 +1,10 @@
+smiles,u0_atom
+CC(C)(NS(C)(=O)=O)c1noc(-c2ccc(OC(F)F)cn2)n1,-5.01014
+CC(=O)Nc1cc(NC(=O)C2(CF)CCC2)ccc1Cl,-5.5398
+CN(C)Cc1nnc([C@H]2CCCN(c3ncccc3F)C2)n1C,-4.8148800000000005
+Cc1csc([C@H](NC(=O)N[C@@H]2[C@H](C)O[C@H](C)[C@H]2C)C2CC2)n1,-3.79255
+O=C(NCc1ccc2c(c1)OCCO2)[C@@H]1CCC(=O)C1,-6.08065
+C[C@H](O)CCNC(=O)C(=O)Nc1cccc(-c2nc(C3CC3)n[nH]2)c1,-5.90643
+Cc1cc(C#N)cc(NC(=O)N2C[C@H](N(C)C)[C@@H](C)C2)c1,-4.37904
+CNC(=O)C1CCC(NC(=O)Cc2ccc(O)cc2Cl)CC1,-5.7847
+C[C@@H](N(Cc1ccccc1)C(=O)C(=O)Nc1ncn(C)n1)C(C)(C)C,-4.89538
